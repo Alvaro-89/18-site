@@ -4,3 +4,6 @@
     background-size: cover;
     color: black;
 }
+.card {
+    image-size="100px";
+}
